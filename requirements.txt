@@ -1,9 +1,9 @@
 streamlit
 pandas
-python-pptx~=0.6.21
+python-pptx
 openpyxl
-Pillow==9.3.0
+Pillow
 requests
 plotly
-yahooquery==2.3.3
+yahooquery
 kaleido
